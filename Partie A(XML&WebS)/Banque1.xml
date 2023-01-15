@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve rib="011112222333344445555666">
+    <datereleve>2021-11-10</datereleve>
+    <solde>14500</solde>
+    <operations datedebut="2021-01-01" datefin="2021-01-30">
+        <operation type="CREDIT" date="2021-01-01" montant="9000" description="Vers Espéce"/>
+        <operation type="DEBIT" date="2021-01-11" montant="3400" description="Chèque Guichet"/>
+        <operation type="DEBIT" date="2021-01-15" montant="120" description="Prélèvement Assurence"/>
+        <operation type="CREDIT" date="2021-01-25" montant="70000" description="Virement .."/>
+    </operations>
+</releve>
+

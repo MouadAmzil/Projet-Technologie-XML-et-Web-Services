@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve>
+    <operations>
+        <date>2021-01-01</date>
+        <description>Vers Espèce</description>
+        <montant>9000.0</montant>
+        <type>CREDIT</type>
+    </operations>
+    <operations>
+        <date>2021-01-11</date>
+        <description>Chèque Guichet</description>
+        <montant>3400.0</montant>
+        <type>DEBIT</type>
+    </operations>
+    <operations>
+        <date>2021-01-15</date>
+        <description>Prélèvement Assurence</description>
+        <montant>120.0</montant>
+        <type>DEBIT</type>
+    </operations>
+    <operations>
+        <date>2021-01-25</date>
+        <description>Virement ..</description>
+        <montant>70000.0</montant>
+        <type>CREDIT</type>
+    </operations>
+</releve>
